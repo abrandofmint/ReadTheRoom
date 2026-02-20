@@ -5,6 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/nelso/Downloads/ReadTheRoom-main/ReadTheRoom-main/RTR/Content/BrandonRoom/BrandonRoom.umap",
+				"C:/Users/nelso/Downloads/ReadTheRoom-main/ReadTheRoom-main/RTR/Content/BrandonRoom/room2/MyRoom_Blueprint.uasset",
+				"C:/Users/nelso/Downloads/ReadTheRoom-main/ReadTheRoom-main/RTR/Content/Floor_Blueprint.uasset",
+				"C:/Users/nelso/Downloads/ReadTheRoom-main/ReadTheRoom-main/RTR/Content/MyRoom_Blueprint_Blueprint.uasset",
+				"C:/Users/nelso/Downloads/ReadTheRoom-main/ReadTheRoom-main/RTR/Content/Cube23_Blueprint.uasset",
+				"C:/Users/nelso/Downloads/ReadTheRoom-main/ReadTheRoom-main/RTR/Content/Blueprints/Cube32_Blueprint.uasset",
+				"C:/Users/nelso/Downloads/ReadTheRoom-main/ReadTheRoom-main/RTR/Content/Blueprints/Cube32_Blueprint1.uasset",
+				"C:/Users/nelso/Downloads/ReadTheRoom-main/ReadTheRoom-main/RTR/Content/Blueprints/NewBlueprint.uasset",
+				"C:/Users/nelso/Downloads/ReadTheRoom-main/ReadTheRoom-main/RTR/Content/MyRoom_Blueprint.uasset",
+				"C:/Users/nelso/Downloads/ReadTheRoom-main/ReadTheRoom-main/RTR/Content/BrandonRoom/room3/RoomBlockOutNelson.uasset",
+				"C:/Users/nelso/Downloads/ReadTheRoom-main/ReadTheRoom-main/RTR/Content/Blueprints/RoomBlockOutNelson.uasset",
+				"C:/Users/nelso/Downloads/ReadTheRoom-main/ReadTheRoom-main/RTR/Content/BrandonRoom/room2/RoomBlockOutNelson.uasset",
 				"C:/Users/brand/Downloads/RTR/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
 		}

@@ -1,2 +1,3 @@
-2026/02/19-12:43:21.773 36b4 Creating DB C:\Users\brand\Downloads\RTR\Saved\webcache_6613\Default\shared_proto_db\metadata since it was missing.
-2026/02/19-12:43:21.790 36b4 Reusing MANIFEST C:\Users\brand\Downloads\RTR\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/02/20-02:39:02.929 5b7c Reusing MANIFEST C:\Users\nelso\Downloads\ReadTheRoom-main\ReadTheRoom-main\RTR\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/02/20-02:39:02.930 5b7c Recovering log #3
+2026/02/20-02:39:02.930 5b7c Reusing old log C:\Users\nelso\Downloads\ReadTheRoom-main\ReadTheRoom-main\RTR\Saved\webcache_6613\Default\shared_proto_db\metadata/000003.log 
