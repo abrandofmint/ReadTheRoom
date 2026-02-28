@@ -1,18 +1,9 @@
-[24264:15980:0224/162542.927:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[24264:15980:0224/162543.028:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[24264:6600:0224/162543.140:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[24264:15980:0224/162543.238:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[24264:16732:0224/162548.597:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\josit\OneDrive\Documents\GitHub\ReadTheRoom\RTR\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\josit\OneDrive\Documents\GitHub\ReadTheRoom\RTR\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24264:16732:0224/162548.599:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\josit\OneDrive\Documents\GitHub\ReadTheRoom\RTR\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\josit\OneDrive\Documents\GitHub\ReadTheRoom\RTR\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24264:16732:0224/162548.602:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\josit\OneDrive\Documents\GitHub\ReadTheRoom\RTR\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\josit\OneDrive\Documents\GitHub\ReadTheRoom\RTR\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24264:16732:0224/162548.604:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\josit\OneDrive\Documents\GitHub\ReadTheRoom\RTR\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\josit\OneDrive\Documents\GitHub\ReadTheRoom\RTR\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24264:14972:0224/162549.293:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\josit\OneDrive\Documents\GitHub\ReadTheRoom\RTR\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\josit\OneDrive\Documents\GitHub\ReadTheRoom\RTR\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5844:17776:0224/162549.706:ERROR:backend_impl.cc(989)] Critical error found -8
-[5844:17776:0224/162549.706:WARNING:storage_block-inl.h(138)] Failed data load.
-[5844:17776:0224/162549.706:WARNING:storage_block-inl.h(138)] Failed data load.
-[5844:17776:0224/162549.706:ERROR:entry_impl.cc(1029)] No file for b2020000
-[5844:17776:0224/162549.706:WARNING:storage_block-inl.h(138)] Failed data load.
-[24264:6600:0224/162549.707:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24264:6600:0224/162549.709:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[17516:3736:0224/162550.706:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-232C9D3369DFFB54F18ADAEF66FFC031 will be ignored
-[24264:15980:0224/163142.884:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[20440:3380:0227/210411.667:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20440:8388:0227/210411.879:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[20440:3380:0227/210411.968:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[3544:4448:0227/210416.074:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F881698998A830F9BBE1B3E539E4AC52 will be ignored
+[17744:13104:0227/210419.021:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[17744:13104:0227/210419.038:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[17744:13104:0227/210433.592:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[17744:13104:0227/210445.630:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[20440:3380:0227/210543.835:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
